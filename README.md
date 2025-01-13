@@ -80,7 +80,7 @@ The provided dataset consists of:
 
 4. **Metrics**:
    - **ROC AUC**: Metric for evaluating probabilistic predictions.
-   - **Precision-Recall AUC**: Assesses performance on the minority class (label=1).
+   - **Precision-Recall AUC**: Assesses performance of classifier for class prediction.
    - **Normalized Confusion Matrix**: Displays class-specific prediction proportions normalized by true class size.
      
 ## Challenges and Limitations
